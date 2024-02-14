@@ -1,0 +1,1 @@
+This program employs the least squares method to analyze cryptocurrency price data. It generates polynomials to model price trends accurately. By fetching data from the Binance API, determining the best polynomial fit, and calculating errors, users gain insights into price movements and trends.
